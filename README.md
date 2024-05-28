@@ -24,7 +24,7 @@ O procolo de controle de tráfego rodoviário do omniscent é denominado **RESF-
 
 Este protocolo permite que os veículos obtenham informações actualizadas sobre as condições de tráfego em tempo real, facilitando a tomada de decisões e o planeamento de rotas mais eficientes, contribuindo para a segurança e fluidez do tráfego rodoviário.
 
-## Build
+## Build do simulador
 
 ```bash
     sudo apt install sumo sumo-gui
